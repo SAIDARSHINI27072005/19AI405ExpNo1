@@ -101,7 +101,8 @@ agent.print_status()
 ```
 
 # OUTPUT:
-(https://github.com/user-attachments/assets/52865fb9-c07e-469c-89b3-0844c0eefe52)
+![image](https://github.com/user-attachments/assets/51ee16ad-88ba-4a4c-8484-50068abaf0d0)
+
 # RESULT:
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
 
